@@ -7,8 +7,4 @@ Welcome to my immersive website designed to explore the art of scrolling and the
 
 ## Tools
 
-This application is built with pure Java Scropt and CSS
-
-<img src="./readme_assets/cards.png" width="100%">
-
-### CSS
+This application is built with pure Java Script and CSS
